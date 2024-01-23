@@ -24,7 +24,7 @@ function Intro() {
         ))}
       </h1>
       <img
-        src="src\assets\profile_photo.JPG"
+        src="public/profile_photo.JPG"
         className="w-48 h-48 rounded-full object-cover drop-shadow-xl"
       ></img>
       <a
